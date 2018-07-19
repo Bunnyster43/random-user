@@ -11,7 +11,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build"
   },
   "description": "# React Homework - Alternate",
   "main": "index.js",
@@ -21,7 +23,7 @@
     "url": "git+https://github.com/Bunnyster43/random-user.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Isaac Simental-Starr",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Bunnyster43/random-user/issues"
