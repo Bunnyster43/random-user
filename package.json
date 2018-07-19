@@ -1,10 +1,8 @@
 {
-  "name": "reactpractice",
+  "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
-    "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4"
@@ -13,22 +11,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
-  "main": "index.js",
-  "devDependencies": {},
-  "keywords": [],
-  "author": "Isaac Simental-Starr",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Bunnyster43/random-user.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Bunnyster43/random-user/issues"
-  },
-  "homepage": "https://bunnyster43.github.io/random-user/"
+    "eject": "react-scripts eject"
+  }
 }

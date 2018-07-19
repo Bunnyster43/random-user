@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,mBACA,wBAA+B,CAGjC,kBACE,WAAa","file":"static/css/main.9ffc97f4.css","sourcesContent":["body {\n  margin-bottom: 60px;\n  background-color: lemonchiffon;\n}\n\n.clickable-images{\n  margin: 10px;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
