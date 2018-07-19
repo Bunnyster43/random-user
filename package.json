@@ -12,5 +12,19 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "# React Homework - Alternate",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bunnyster43/random-user.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bunnyster43/random-user/issues"
+  },
+  "homepage": "https://github.com/Bunnyster43/random-user#readme"
 }
