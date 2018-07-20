@@ -1,7 +1,8 @@
 {
-  "name": "my-react-app",
+  "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Bunnyster43.github.io/random-user/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
@@ -15,19 +16,5 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-  "description": "# React Homework - Alternate",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Bunnyster43/random-user.git"
-  },
-  "keywords": [],
-  "author": "Isaac Simental-Starr",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Bunnyster43/random-user/issues"
-  },
-  "homepage": "https://Bunnyster43.github.io/random-user"
+  }
 }
