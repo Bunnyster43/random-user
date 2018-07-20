@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4"
@@ -28,5 +29,5 @@
   "bugs": {
     "url": "https://github.com/Bunnyster43/random-user/issues"
   },
-  "homepage": "https://github.com/Bunnyster43/random-user#readme"
+  "homepage": "https://Bunnyster43.github.io/random-user"
 }
